@@ -1,1 +1,1 @@
-# zeitgeist-releases
+# ZySync-releases
